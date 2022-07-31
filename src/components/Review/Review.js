@@ -5,7 +5,7 @@ import './Review.css';
 const Review = (props) => {
     const { name, img, comment, rating } = props.product;
     return (
-        <Card style={{ height: '800px' }}>
+        <Card className='review-card' >
             <Card.Img style={{ height: '400px' }} variant="top" src={img} />
             <Card.Body>
                 <Card.Title>{name}</Card.Title>

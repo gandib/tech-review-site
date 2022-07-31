@@ -1,3 +1,19 @@
 .rating-color {
     color: blueviolet;
 }
+
+.review-card {
+    height: 800px;
+}
+
+@media screen and (max-width: '600px') {
+    .review-card {
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (min-width: 600px) and (max-width: 992px) {
+    .review-card {
+        height: 900px;
+    }
+}

@@ -29,3 +29,34 @@
 .seeAllReviewsBtn {
     margin-bottom: 50px;
 }
+
+@media screen and (max-width: 600px) {
+    .review-card {
+        display: block;
+    }
+
+    .seeAllReviewsBtn {
+        margin-top: 1400px;
+    }
+
+    .home-container {
+        display: block;
+    }
+}
+
+@media screen and (min-width: 600px) and (max-width: 768px) {
+    .review-card {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        margin-bottom: 30px;
+        grid-gap: 20px;
+    }
+
+    .seeAllReviewsBtn {
+        margin-top: 850px;
+    }
+
+    .home-container {
+        display: block;
+    }
+}
