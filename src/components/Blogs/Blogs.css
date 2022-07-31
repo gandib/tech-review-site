@@ -1,0 +1,12 @@
+.blog-header {
+    color: black;
+    margin-bottom: 50px;
+}
+
+.blog-question {
+    color: blueviolet;
+}
+
+.blog-text {
+    text-align: justify;
+}
