@@ -23,3 +23,22 @@
 .barchart-investment-color {
     border-left: 20px solid red;
 }
+
+@media screen and (max-width: 600px) {
+    .dashboard-rechart-first-two {
+        display: block;
+        margin-bottom: 50px;
+    }
+
+    .chart-hieght-width {
+        height: 200px;
+        width: 200px;
+    }
+}
+
+@media screen and (min-width: 600px) and (max-width: 768px) {
+    .dashboard-rechart-first-two {
+        display: block;
+        margin-bottom: 50px;
+    }
+}
