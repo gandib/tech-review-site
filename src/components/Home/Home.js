@@ -7,7 +7,7 @@ import './Home.css';
 import Review from '../Review/Review';
 
 const Home = () => {
-    const [products, setProducts] = useProducts();
+    const [products] = useProducts();
     const navigate = useNavigate();
     const hotProduct = {
         name: 'Apple MacBook Pro',

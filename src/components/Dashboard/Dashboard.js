@@ -1,11 +1,10 @@
 import React from 'react';
-import { Area, AreaChart, Bar, BarChart, CartesianGrid, Cell, Line, LineChart, Pie, PieChart, Tooltip, XAxis, YAxis } from 'recharts';
+import { Area, AreaChart, Bar, BarChart, CartesianGrid, Line, LineChart, Pie, PieChart, Tooltip, XAxis, YAxis } from 'recharts';
 import useRechart from '../../hooks/useRechart';
 import './Dashboard.css';
 
 const Dashboard = () => {
-    const [chart, setChart] = useRechart();
-    const { month } = chart;
+    const [chart] = useRechart();
 
 
     return (

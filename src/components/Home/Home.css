@@ -1,7 +1,5 @@
 .home-container {
     display: flex;
-    /* grid-template-columns: 2 1fr; */
-    /* flex-direction: column; */
 }
 
 .home-container .home-desc {
@@ -11,7 +9,6 @@
 
 .home-container .home-img img {
     width: 500px;
-    /* height: 200px; */
 }
 
 .review-card {
