@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Tech Review Site
+
+# [Live Server Link](https://tech-review-site.netlify.app/)
 
 # [Private Repo Link](https://github.com/programming-hero-web-course-4/product-analysis-website-gandib)
 https://github.com/programming-hero-web-course-4/product-analysis-website-gandib
