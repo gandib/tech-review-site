@@ -1,0 +1,44 @@
+[
+    {
+        "id": "62d64e6c21c2e18117b03f0c",
+        "name": "John Milton",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/91/John-milton.jpg",
+        "comment": "The MacBook Pro with M1 (from $1,299) is a laptop with an unbeatable combo of power and endurance, making it one of the best laptops you can buy right now. And I know this because I’ve been using this system for months to plow through my workload, and I can barely get this machine to stutter no matter what I throw at it.",
+        "rating": "5"
+    },
+    {
+        "id": "62d64e6c24f19ddaa2400dfa",
+        "name": "William Shakespeare",
+        "img": "https://nationaltoday.com/wp-content/uploads/2022/04/50-William-Shakespeare.jpg.webp",
+        "comment": "Thanks to the M1 chip, the Apple Silicon inside this 3-pound beast runs circles around most Windows laptops when it comes to sheer performance. Just as important, the new MacBook Pro M1 outlasts the competition on battery life — by a lot. We’re talking more than 16 hours of endurance. My only complaint is that Apple hasn’t touched the design.",
+        "rating": "4"
+    },
+    {
+        "id": "62d64e6c41d2457d387ee125",
+        "name": "John Donne",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/96/John_Donne_by_Isaac_Oliver.jpg",
+        "comment": "Despite being two years old, the Apple MacBook Pro 13-inch is still a great laptop and holds its own against newer laptops. The MacBook Pro 13-inch launched in 2020 with the M1 chip, replacing previous Intel processors that used to power Apple computers and ushering in a new era of Apple computer technology.",
+        "rating": "4.5"
+    },
+    {
+        "id": "62d64e6ca940c657494db2ad",
+        "name": "W. B. Yeats",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/62/Yeats_Boughton.jpg",
+        "comment": "The Apple MacBook Pro 13-inch is still superior to the early 2020 model it replaced because of the impressive tech upgrades it received. It’s 2.8 times faster than the earlier model, three times as quick as comparable Windows laptops, and has a longer battery life than the earlier 2020 model.",
+        "rating": "5"
+    },
+    {
+        "id": "62d64e6c8dde5b59bdaab7a2",
+        "name": "Robert Browning",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/58/Robert_Browning_by_Herbert_Rose_Barraud_c1888.jpg",
+        "comment": "The only potential downside of the MacBook Pro 13-inch is it keeps the original design of the earlier 2020 model, which can be good or bad depending on how you think about it. On the one hand, the previous design of the Apple MacBook Pro was great - thin, light, and featuring the impressive Magic Keyboard. Conversely, it would have been interesting to see Apple take up a new design for the MacBook Pro 13-inch to match the formerly new M1 chip.",
+        "rating": "4.5"
+    },
+    {
+        "id": "62d64e6c270a600f77e3ebf9",
+        "name": "William Wordsworth",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Wordsworth_on_Helvellyn_by_Benjamin_Robert_Haydon.jpg",
+        "comment": "With the Apple M1 chip released in 2020 and follow-up, more powerful M1 Pro and M1 Max chips found in Apple MacBook Pro 14-inch and 16-inch devices, it’s entirely possible we’ll see a new M2 chip revealed at the 2022 Apple Worldwide Developers Conference. WWDC 2022 will last from Monday, June 6 to Friday, June 10, with people already guessing what might be unveiled.",
+        "rating": "5"
+    }
+]

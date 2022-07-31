@@ -1,0 +1,13 @@
+.custom-nav {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.custom-nav a {
+    margin-right: 20px;
+    font-size: larger;
+    border-bottom: 3px solid black;
+    text-decoration: none;
+}

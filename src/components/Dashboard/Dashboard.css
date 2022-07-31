@@ -1,0 +1,25 @@
+.dashboard-rechart-first-two {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.month-wise {
+    margin-right: 30px;
+}
+
+.barchart {
+    display: flex;
+    margin-left: 100px;
+}
+
+.barchart p {
+    padding: 10px;
+}
+
+.barchart-revenue-color {
+    border-left: 20px solid #8884d8;
+}
+
+.barchart-investment-color {
+    border-left: 20px solid red;
+}
