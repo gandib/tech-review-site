@@ -1,6 +1,16 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# [Private Repo Link](https://github.com/programming-hero-web-course-4/product-analysis-website-gandib)
+https://github.com/programming-hero-web-course-4/product-analysis-website-gandib
+
+# Using Bullet Points for Describing My Project
+* Home page contain Sample Product and its description. Then another section in Home page, you can find customer reviews (only 3 reviews, full to see click the below button).
+* Reviews page to show all reviews.
+* Dashboard page to show Linecharty, Areachart, barchart, piechart.
+* Blogs page to show the question and answer which required on this assignment.
+* It has also a About page and 404 page. Thanks.
+
+
 
 ## Available Scripts
 
